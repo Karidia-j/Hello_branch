@@ -6,6 +6,4 @@ print("super feature")
 print("one more feature")
 print("one more")
 print("conflit")
-
-print ("test exercice")
-print("conflit")
+print("nouvel essai")
